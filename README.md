@@ -20,10 +20,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/WLyKan">
   <img align="left" alt="KingxBeta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://space.bilibili.com/7998048">
+  <img align="left" alt="KingxBeta's Github" width="22px" src="https://cdn.jsdelivr.net/gh/nullice/NViconsLib_Silhouette/svg/CN_bilibili_B.svg" />
+</a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Ajay Singh Khalsa
+### I am KingxBeta
 
 - 🔭 I’m currently working on coding, reading, vlog
 - 🌱 I’m currently learning javascript, Pr&AE，nodejs, Photography...
