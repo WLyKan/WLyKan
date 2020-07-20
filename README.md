@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 -->
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://github.com/WLyKan">
+<a href="https://github.com/WLyKan" target='_blank'>
   <img align="left" alt="KingxBeta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://space.bilibili.com/7998048">
+<a href="https://space.bilibili.com/7998048" target='_blank'>
   <img align="left" alt="KingxBeta's Github" width="22px" src="https://cdn.jsdelivr.net/gh/nullice/NViconsLib_Silhouette/svg/CN_bilibili_B.svg" />
 </a>
-<a href="https://www.hackerrank.com/Kingxbeta">
+<a href="https://www.hackerrank.com/Kingxbeta" target='_blank'>
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://leetcode-cn.com/u/kingxbeta/">
+<a href="https://leetcode-cn.com/u/kingxbeta/" target='_blank'>
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <br />
