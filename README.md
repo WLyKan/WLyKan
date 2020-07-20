@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am KingxBeta
+### I am KingxBeta. A programmer/geeker/Open Source enthusiast.
 
 - 🔭 I’m currently working on coding, reading, vlog
 - 🌱 I’m currently learning javascript, Pr&AE，nodejs, Photography...
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: I'm currently looking for opportunities.
-- ⚡ Fun fact: I love to learn and contribute in any and every possible way. Open Source enthusiast.
+- ⚡ Fun fact: I love to learn and contribute in any and every possible way. 
 
 ⭐️ Inspired by [AjayKhalsa](https://github.com/AjayKhalsa)
