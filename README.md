@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 💖 I'm currently looking for opportunities.
 - 🔭 I’m currently working on a few personal projects that is :construction:WIP.
 - 🌱 I’m currently learning 📹Pr&AE，nodejs, 📷Photography...
-- ⚡ Fun fact: I love to learn and contribute in any and every possible way. 
+- ⚡ I live with two cats:cat2:. 
+- :mag: I love to learn and contribute in any and every possible way. 
 
 ⭐️ Inspired by [AjayKhalsa](https://github.com/AjayKhalsa)
