@@ -33,15 +33,10 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am KingxBeta. 
-### A programmer/geeker/Open Source enthusiast.
-
-- 🔭 I’m currently working on coding, reading, vlog
-- 🌱 I’m currently learning javascript, Pr&AE，nodejs, Photography...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: I'm currently looking for opportunities.
+- 👨 A 💻programmer/🔌geeker/📖reader/Open Source enthusiast.
+- 💖 I'm currently looking for opportunities.
+- 🔭 I’m currently working on a few personal projects that is WIP.
+- 🌱 I’m currently learning javascript, 📹Pr&AE，nodejs, 📷Photography...
 - ⚡ Fun fact: I love to learn and contribute in any and every possible way. 
 
 ⭐️ Inspired by [AjayKhalsa](https://github.com/AjayKhalsa)
