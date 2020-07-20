@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am KingxBeta. A programmer/geeker/Open Source enthusiast.
+### I am KingxBeta. 
+### A programmer/geeker/Open Source enthusiast.
 
 - 🔭 I’m currently working on coding, reading, vlog
 - 🌱 I’m currently learning javascript, Pr&AE，nodejs, Photography...
