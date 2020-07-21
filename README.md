@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   <img align="left" alt="KingxBeta's Github" width="22px" src="https://cdn.jsdelivr.net/gh/nullice/NViconsLib_Silhouette/svg/CN_bilibili_B.svg" />
 </a>
 <a href="https://www.hackerrank.com/Kingxbeta" alt="a technology hiring platform that is the standard for assessing developer skills">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="KingxBeta's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://leetcode-cn.com/u/kingxbeta/" alt="a website where people–mostly software engineers–practice their coding skills.">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="KingxBeta's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <br />
 <a href="javascript:void(0)">
