@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+<!--
 <a href="https://github.com/WLyKan" alt="github">
   <img align="left" alt="KingxBeta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -30,10 +30,11 @@ Here are some ideas to get you started:
   <img align="left" alt="KingxBeta's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <br />
+-->
 <a href="javascript:void(0)">
   <img align="right" alt="GIF" width='378px' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </a>
-
+<!--
 ### I am KingxBeta. 
 - 👨 A programmer/geeker/reader/:boom:Open Source enthusiast.
 - 💖 I'm currently looking for opportunities.
@@ -43,3 +44,4 @@ Here are some ideas to get you started:
 - 🔍 I love to learn and contribute in any and every possible way. 
 
 ⭐️ Inspired by [AjayKhalsa](https://github.com/AjayKhalsa)
+-->
